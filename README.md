@@ -1,6 +1,6 @@
 # Overview
 
-THis rpoject is intended to demonstrate the bare basics of what the Kotlin Language is and does. 
+This rpoject is intended to demonstrate the bare basics of what the Kotlin Language is and does. 
 The code in this project demonstrated how kotlin interacts with the mobile interface and works together with XML to make a user friendly app. 
 I intendid this to be a learning experience for myself and those who may also see this. That first part definitely was true. 
 
