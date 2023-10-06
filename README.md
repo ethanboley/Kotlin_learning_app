@@ -5,16 +5,13 @@ The code in this project demonstrated how kotlin interacts with the mobile inter
 I intendid this to be a learning experience for myself and those who may also see this. That first part definitely was true. 
 
 
-
 # Development Environment
 
--Windows 11
--Android Studio Giraffe | 2022.3.1 Patch 1
--Kotlin 1.8.10
+- Windows 11
+- Android Studio Giraffe | 2022.3.1 Patch 1
+- Kotlin 1.8.10
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - https://www.youtube.com/watch?v=kMI2jy-WlGM
 - https://www.youtube.com/watch?v=F9UC9DY-vIU
